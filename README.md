@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JackNewmain
-- 👀 I’m interested in it world
-- 🌱 I’m currently learning github
-- 💞️ I’m looking to collaborate on soulmates.
+- 👀 I’m interested in cryptosystems projects (Blockchains, DeFi, NFT, Social services etc) 
+- 🌱 I’m currently learning github and some it-tasks.
+- 💞️ I’m looking to collaborate with soulmates.
 
 
 <!---
