@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JackNewmain
+- 👋 Hello everyone, I’m Jack Newmain
 - 👀 I’m interested in cryptosystems projects (Blockchains, DeFi, NFT, Social services etc) 
 - 🌱 I’m currently learning github and some it-tasks.
 - 💞️ I’m looking to collaborate with soulmates.
